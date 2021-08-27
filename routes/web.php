@@ -31,3 +31,8 @@ Route::get('user3545454', function () {
     // return view('welcome');
     return "User22233333545454";
 });
+
+Route::get('user7', function () {
+    // return view('welcome');
+    return "User7";
+});
