@@ -21,3 +21,8 @@ Route::get('user', function () {
     // return view('welcome');
     return "User";
 });
+
+Route::get('user2', function () {
+    // return view('welcome');
+    return "User222";
+});
