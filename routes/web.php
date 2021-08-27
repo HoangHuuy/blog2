@@ -27,12 +27,6 @@ Route::get('user2', function () {
     return "User222";
 });
 
-Route::get('user3', function () {
-    // return view('welcome');
-    return "User22233333";
-});
-
-
 Route::get('user3545454', function () {
     // return view('welcome');
     return "User22233333545454";
